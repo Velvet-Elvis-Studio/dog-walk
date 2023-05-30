@@ -1,0 +1,4 @@
+.active {
+  background-color: blue;
+  transform: scale(0.7) rotate(45deg);
+}
